@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1697986192 source:c:\codeblock c++\tp mod 6\main.cpp
+	<iostream>
+	"DLL.h"
+
+1697988216 c:\codeblock c++\tp mod 6\dll.h
+	<iostream>
+
+1697985551 source:c:\codeblock c++\tp mod 6\dll.cpp
+	<iostream>
+	"DLL.h"
+
+1697986192 source:c:\struktur data codeblock c++\tp mod 6\main.cpp
+	<iostream>
+	"DLL.h"
+
+1697988216 c:\struktur data codeblock c++\tp mod 6\dll.h
+	<iostream>
+
